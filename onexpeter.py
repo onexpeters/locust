@@ -1,13 +1,13 @@
-import ee 
-import folium
+#import ee 
+#import folium
 import streamlit as st
-import geehydro
-import numpy as np
-import time
-from datetime import datetime as dt
-from IPython.display import Image
-from streamlit_folium import folium_static
-import base64
+#import geehydro
+#import numpy as np
+#import time
+#from datetime import datetime as dt
+#from IPython.display import Image
+#from streamlit_folium import folium_static
+#import base64
 st.title('DESERT LOCUST SIGHTING SYSTEM')
 col1, col2 = st.beta_columns(2)
 with col1:
