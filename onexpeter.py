@@ -1,13 +1,13 @@
-import ee 
-import folium
+#import ee 
+#import folium
 import streamlit as st
-import geehydro
-import numpy as np
-import time
-from datetime import datetime as dt
-from IPython.display import Image
-from streamlit_folium import folium_static
-import base64
+#import geehydro
+#import numpy as np
+#import time
+#from datetime import datetime as dt
+#from IPython.display import Image
+#from streamlit_folium import folium_static
+#import base64
 st.title('DESERT LOCUST SIGHTING SYSTEM')
 st.write('Help us track Desert Locust in Kenya. Have you seen Desert locust where you are. A photo or video will be great!.')
 main_bg = "ISIOLO.png"
